@@ -75,7 +75,7 @@ Import your widget into FigJam to start testing it:
 
 1. Open a FigJam file using the Figma Desktop app to import your widget. 
 2. Right click > Widgets > Development > Import widget from manifest… and import the manifest.json file in your widget directory.
-3. Insert your your widget: "Right click > Widgets > Development > ${widgetname}"
+3. Insert your widget: "Right click > Widgets > Development > ${widgetname}"
 `);
     });
   })();
